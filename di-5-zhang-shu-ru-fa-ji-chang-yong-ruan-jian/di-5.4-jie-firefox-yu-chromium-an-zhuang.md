@@ -59,3 +59,14 @@ pkg install firefox-esr
 
 ![join-mail-list-for-google-api](../.gitbook/assets/join-chromium-dev-for-api.png)
 
+加入 google-browser-signin-testaccounts 群组后，你可能会看到：“您无权访问此内容”之类的提示，这很正常，忽略即可。
+
+![join-mail-list-for-google-api-error2](../.gitbook/assets/join-chromium--list-2error)
+
+之后，用浏览器打开 [谷歌云控制台网站](https://console.cloud.google.com/) 
+
+注: 登录控制台时需要和上一步加入邮件列表的谷歌账户是同一个。
+
+![chromium-use-google-api-guide-0](../.gitbook/assets/chromium-use-google-api-guide-0)
+
+如果之前没有使用过这个网站创建过项目，那点击创建项目即可。
